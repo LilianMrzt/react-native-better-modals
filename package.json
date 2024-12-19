@@ -1,0 +1,18 @@
+{
+  "name": "react-native-better-modals",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-native": "^0.76.5"
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@types/react": "^19.0.2",
+    "@types/react-native": "^0.73.0",
+    "typescript": "^5.7.2"
+  }
+}
